@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @denizmaral
-- 👀 I’m interested in BIM Softwares and also Python, C# and SwiftUI
-- 🌱 I’m currently learning C#, SwiftUI
-- 💞️ I’m looking to collaborate on BlenderBIM
+- 👀 I’m interested in BIM Softwares and CrossPlatform softwares
+- 🌱 I’m currently coding C#, SwiftUI and Python
 - 📫 How to reach me dnzmaral@gmail.com
 
 <!---
