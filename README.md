@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @denizmaral
-- 👀 I’m interested in BIM and CrossPlatform softwares
+- 👀 I’m interested in BIM and Cross-Platform softwares
 - 🌱 I’m currently coding C#, SwiftUI and Python
 - 📫 How to reach me dnzmaral@gmail.com
 
